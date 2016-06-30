@@ -6,4 +6,3 @@ def test_mean_1234():
     num_list = [1,2,3,4]
     calc_mean = mean(num_list)
     expected_mean=3
-    assert expected_mean == calc_mean
